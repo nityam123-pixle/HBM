@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/",
+            "destination": "/HBM_Growth_Plan_autoplay.html"
+        }
+    ]
+}
